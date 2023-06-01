@@ -1,0 +1,15 @@
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumFreq\bin\Debug\net7.0\NumFreq.exe
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumFreq\bin\Debug\net7.0\NumFreq.deps.json
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumFreq\bin\Debug\net7.0\NumFreq.runtimeconfig.json
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumFreq\bin\Debug\net7.0\NumFreq.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumFreq\bin\Debug\net7.0\NumFreq.pdb
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumFreq\obj\Debug\net7.0\NumFreq.csproj.AssemblyReference.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumFreq\obj\Debug\net7.0\NumFreq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumFreq\obj\Debug\net7.0\NumFreq.AssemblyInfoInputs.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumFreq\obj\Debug\net7.0\NumFreq.AssemblyInfo.cs
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumFreq\obj\Debug\net7.0\NumFreq.csproj.CoreCompileInputs.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumFreq\obj\Debug\net7.0\NumFreq.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumFreq\obj\Debug\net7.0\refint\NumFreq.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumFreq\obj\Debug\net7.0\NumFreq.pdb
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumFreq\obj\Debug\net7.0\NumFreq.genruntimeconfig.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumFreq\obj\Debug\net7.0\ref\NumFreq.dll
