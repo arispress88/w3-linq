@@ -1,0 +1,15 @@
+C:\Users\Arnold\workspace\Extra-csharp\linq\SqRoot\bin\Debug\net7.0\SqRoot.exe
+C:\Users\Arnold\workspace\Extra-csharp\linq\SqRoot\bin\Debug\net7.0\SqRoot.deps.json
+C:\Users\Arnold\workspace\Extra-csharp\linq\SqRoot\bin\Debug\net7.0\SqRoot.runtimeconfig.json
+C:\Users\Arnold\workspace\Extra-csharp\linq\SqRoot\bin\Debug\net7.0\SqRoot.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\SqRoot\bin\Debug\net7.0\SqRoot.pdb
+C:\Users\Arnold\workspace\Extra-csharp\linq\SqRoot\obj\Debug\net7.0\SqRoot.csproj.AssemblyReference.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\SqRoot\obj\Debug\net7.0\SqRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnold\workspace\Extra-csharp\linq\SqRoot\obj\Debug\net7.0\SqRoot.AssemblyInfoInputs.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\SqRoot\obj\Debug\net7.0\SqRoot.AssemblyInfo.cs
+C:\Users\Arnold\workspace\Extra-csharp\linq\SqRoot\obj\Debug\net7.0\SqRoot.csproj.CoreCompileInputs.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\SqRoot\obj\Debug\net7.0\SqRoot.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\SqRoot\obj\Debug\net7.0\refint\SqRoot.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\SqRoot\obj\Debug\net7.0\SqRoot.pdb
+C:\Users\Arnold\workspace\Extra-csharp\linq\SqRoot\obj\Debug\net7.0\SqRoot.genruntimeconfig.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\SqRoot\obj\Debug\net7.0\ref\SqRoot.dll
