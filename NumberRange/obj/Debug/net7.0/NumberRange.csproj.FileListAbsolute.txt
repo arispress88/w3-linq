@@ -1,0 +1,15 @@
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumberRange\bin\Debug\net7.0\NumberRange.exe
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumberRange\bin\Debug\net7.0\NumberRange.deps.json
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumberRange\bin\Debug\net7.0\NumberRange.runtimeconfig.json
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumberRange\bin\Debug\net7.0\NumberRange.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumberRange\bin\Debug\net7.0\NumberRange.pdb
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumberRange\obj\Debug\net7.0\NumberRange.csproj.AssemblyReference.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumberRange\obj\Debug\net7.0\NumberRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumberRange\obj\Debug\net7.0\NumberRange.AssemblyInfoInputs.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumberRange\obj\Debug\net7.0\NumberRange.AssemblyInfo.cs
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumberRange\obj\Debug\net7.0\NumberRange.csproj.CoreCompileInputs.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumberRange\obj\Debug\net7.0\NumberRange.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumberRange\obj\Debug\net7.0\refint\NumberRange.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumberRange\obj\Debug\net7.0\NumberRange.pdb
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumberRange\obj\Debug\net7.0\NumberRange.genruntimeconfig.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumberRange\obj\Debug\net7.0\ref\NumberRange.dll
