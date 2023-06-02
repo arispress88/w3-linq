@@ -1,0 +1,15 @@
+C:\Users\Arnold\workspace\Extra-csharp\linq\LetterFreq\bin\Debug\net7.0\LetterFreq.exe
+C:\Users\Arnold\workspace\Extra-csharp\linq\LetterFreq\bin\Debug\net7.0\LetterFreq.deps.json
+C:\Users\Arnold\workspace\Extra-csharp\linq\LetterFreq\bin\Debug\net7.0\LetterFreq.runtimeconfig.json
+C:\Users\Arnold\workspace\Extra-csharp\linq\LetterFreq\bin\Debug\net7.0\LetterFreq.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\LetterFreq\bin\Debug\net7.0\LetterFreq.pdb
+C:\Users\Arnold\workspace\Extra-csharp\linq\LetterFreq\obj\Debug\net7.0\LetterFreq.csproj.AssemblyReference.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\LetterFreq\obj\Debug\net7.0\LetterFreq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnold\workspace\Extra-csharp\linq\LetterFreq\obj\Debug\net7.0\LetterFreq.AssemblyInfoInputs.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\LetterFreq\obj\Debug\net7.0\LetterFreq.AssemblyInfo.cs
+C:\Users\Arnold\workspace\Extra-csharp\linq\LetterFreq\obj\Debug\net7.0\LetterFreq.csproj.CoreCompileInputs.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\LetterFreq\obj\Debug\net7.0\LetterFreq.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\LetterFreq\obj\Debug\net7.0\refint\LetterFreq.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\LetterFreq\obj\Debug\net7.0\LetterFreq.pdb
+C:\Users\Arnold\workspace\Extra-csharp\linq\LetterFreq\obj\Debug\net7.0\LetterFreq.genruntimeconfig.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\LetterFreq\obj\Debug\net7.0\ref\LetterFreq.dll
