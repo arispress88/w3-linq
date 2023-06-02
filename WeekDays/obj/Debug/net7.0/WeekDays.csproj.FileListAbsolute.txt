@@ -1,0 +1,15 @@
+C:\Users\Arnold\workspace\Extra-csharp\linq\WeekDays\bin\Debug\net7.0\WeekDays.exe
+C:\Users\Arnold\workspace\Extra-csharp\linq\WeekDays\bin\Debug\net7.0\WeekDays.deps.json
+C:\Users\Arnold\workspace\Extra-csharp\linq\WeekDays\bin\Debug\net7.0\WeekDays.runtimeconfig.json
+C:\Users\Arnold\workspace\Extra-csharp\linq\WeekDays\bin\Debug\net7.0\WeekDays.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\WeekDays\bin\Debug\net7.0\WeekDays.pdb
+C:\Users\Arnold\workspace\Extra-csharp\linq\WeekDays\obj\Debug\net7.0\WeekDays.csproj.AssemblyReference.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\WeekDays\obj\Debug\net7.0\WeekDays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnold\workspace\Extra-csharp\linq\WeekDays\obj\Debug\net7.0\WeekDays.AssemblyInfoInputs.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\WeekDays\obj\Debug\net7.0\WeekDays.AssemblyInfo.cs
+C:\Users\Arnold\workspace\Extra-csharp\linq\WeekDays\obj\Debug\net7.0\WeekDays.csproj.CoreCompileInputs.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\WeekDays\obj\Debug\net7.0\WeekDays.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\WeekDays\obj\Debug\net7.0\refint\WeekDays.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\WeekDays\obj\Debug\net7.0\WeekDays.pdb
+C:\Users\Arnold\workspace\Extra-csharp\linq\WeekDays\obj\Debug\net7.0\WeekDays.genruntimeconfig.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\WeekDays\obj\Debug\net7.0\ref\WeekDays.dll
