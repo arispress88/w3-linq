@@ -1,0 +1,15 @@
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumMulti\bin\Debug\net7.0\NumMulti.exe
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumMulti\bin\Debug\net7.0\NumMulti.deps.json
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumMulti\bin\Debug\net7.0\NumMulti.runtimeconfig.json
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumMulti\bin\Debug\net7.0\NumMulti.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumMulti\bin\Debug\net7.0\NumMulti.pdb
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumMulti\obj\Debug\net7.0\NumMulti.csproj.AssemblyReference.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumMulti\obj\Debug\net7.0\NumMulti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumMulti\obj\Debug\net7.0\NumMulti.AssemblyInfoInputs.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumMulti\obj\Debug\net7.0\NumMulti.AssemblyInfo.cs
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumMulti\obj\Debug\net7.0\NumMulti.csproj.CoreCompileInputs.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumMulti\obj\Debug\net7.0\NumMulti.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumMulti\obj\Debug\net7.0\refint\NumMulti.dll
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumMulti\obj\Debug\net7.0\NumMulti.pdb
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumMulti\obj\Debug\net7.0\NumMulti.genruntimeconfig.cache
+C:\Users\Arnold\workspace\Extra-csharp\linq\NumMulti\obj\Debug\net7.0\ref\NumMulti.dll
